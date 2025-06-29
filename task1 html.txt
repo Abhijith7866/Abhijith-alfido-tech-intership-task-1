@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task1</title>
+</head>
+<body>
+    <link rel="stylesheet" href="task1.css">
+    <div class="nav">
+        <nav>
+        <h1>Abhijith</h1>
+        <ul>
+            <li><a href="#"> Home</a></li>
+            <li>About</li>
+            <li>Achievements</li>
+            <li>Contact</li>
+        </ul>
+        </nav>
+    </div>
+    <div class="Bio">
+        <img src="abhi photo .jpg" alt="" width="25%" class="pic">
+        <div class="one">
+        <h1>Bio</h1>
+        <p>Myself Abhijith.I'm new to fontend development and this is my first project and i did it well with lots of hardwork and dedication.
+            I had followed Error Makes Clever youtube Channel which allows me to find my weakness and helps me to improve my skill and knowledge in web development.This is a simple webpage about me simply using HTML and CSS.
+            I enjoyed and at the same time i struggled a lot while coding in order to enhance its looks I learned so many things to did it.
+        </p>
+        </div>
+    </div>
+    <hr>
+    <div class="footer">
+        <div class="two">
+        <p>@Copyright</p>
+        <p style="color: blue;">9363772635</p>
+        <p>abhijith20kannan@gmail.com</p>
+        </div>
+        <div class="about">
+            
+        <a href="https://www.instagram.com/" class="test">📷instagram </a>
+        <a href="">📞Whatsapp</a>
+        </div>
+        
+    </div>
+</body>
+</html>
